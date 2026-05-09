@@ -5,7 +5,7 @@
 
 - 💼 Currently working as a **Software Engineer at SimplifyVMS**
 
-- 🚀 Shipped **2 production mobile apps** (HireHQ Candidate & Enterprise) on Android & iOS for a US-based client
+- 🚀Shipped 3 production apps (HireHQ Candidate & Enterprise on Flutter · Web platform on React.js) for a US-based client across Android, iOS & Web
 
 - 🔭 Working with **React.js, Flutter, Node.js & Express** to build cross-platform applications
 
